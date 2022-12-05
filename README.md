@@ -1,8 +1,8 @@
 # git practice
 
-description about the repository !!!!
+description about the repository...
 
 
 ## sub header
 
-sub header description
+sub header description ...
